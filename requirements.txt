@@ -1,7 +1,8 @@
 duckdb
 dbt-duckdb
 # Jupyter magic
-ipython-sql
+# ipython-sql
+jupysql
 SQLAlchemy
 duckdb-engine
 # nice CLI for duckdb
